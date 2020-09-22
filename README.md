@@ -8,9 +8,10 @@ Arguments
 
 **--url** specify URL to a webpage or path to a local file    
 **--tag** what HTML tag to download (e.g. 'a' for downloadable links,  'img' for image links)    
-**--prefix** (optional) specify the prefix schema of downloadable links (e.g. 'https://s3', 'ftp://')     
+**--prefix** (optional) specify the prefix schema of downloadable links (e.g. 'https://', 'ftp://')     
 **--suffix** (optional) specify the suffix schema of downloadable contents (e.g. '.zip', '.png', '.jpg', '.tar')    
 
+<img src='screenshot.png'>
 
 # Example
 Download all images from Wikipedia landing page:     
